@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patients>
+
+
+<patient cin="11914053">
+<nom>afli</nom>
+<prenom>khouloud</prenom>
+<dateDeNaissance>18/3/1995</dateDeNaissance>
+<mobile>95825922</mobile>
+<email>khouloud@gmail.com</email>
+<genre>female</genre>
+<address>kairouan</address>
+<metier>etudiante</metier>
+<maladie>grippe</maladie>
+<historique>
+<rendezVous type="Rendez-vous">
+<date>19/2/2019 a 10h</date>
+<prix>45</prix>
+</rendezVous>
+</historique>
+</patient>
+
+<patient cin="16584785"><nom>Ali</nom><prenom>ben foulen</prenom><dateDeNaissance>11/05/2001</dateDeNaissance><mobile>55698655</mobile><email>foulen.foulen@foulen.foulen</email><genre>male</genre><address>Tunis</address><metier>ingenieur</metier><maladie>branchite</maladie><historique><rendezVous type="Rendez-vous"><date>01/05/2019</date><prix>45</prix></rendezVous></historique></patient><patient cin="1858585"><nom>Ali</nom><prenom>ben salah</prenom><dateDeNaissance>05/06/1996</dateDeNaissance><mobile>26654456</mobile><email>ali@live.com</email><genre>male</genre><address>monastir</address><metier>etudiant</metier><maladie>maux au gorges</maladie><historique><rendezVous type="Rendez-vous"><date>03/03/2019 a 10h</date><prix>45</prix></rendezVous></historique></patient><patient cin="12365478"><nom>ali</nom><prenom>ben salah</prenom><dateDeNaissance>02/09/1993</dateDeNaissance><mobile>55698745</mobile><email>ali.bensalah@gmail.com</email><genre>male</genre><address>Tunis</address><metier>caissier</metier><maladie>maux aux gorges</maladie><historique><rendezVous type="Rendez-vous"><date>2/13/2019 a 12h</date><prix>45</prix></rendezVous></historique></patient><patient cin="12568457"><nom>jihene</nom><prenom>othmen</prenom><dateDeNaissance>02/08/1975</dateDeNaissance><mobile>96546543</mobile><email>jihene.othmene@gmail.com</email><genre>female</genre><address>Sousse</address><metier>femme au foyer</metier><maladie>maux au oreilles</maladie><historique><rendezVous type="Rendez-vous"><date>03/03/2019 a 8h</date><prix>45</prix></rendezVous></historique></patient><patient cin="23659874"><nom>amal</nom><prenom>gharbi</prenom><dateDeNaissance>06/04/2003</dateDeNaissance><mobile>26897456</mobile><email>amalamal@gmail.com</email><genre>male</genre><address>Sfax</address><metier>etudiant</metier><maladie>branchite</maladie><historique><rendezVous type="Rendez-vous"><date>04/06/2019</date><prix>45</prix></rendezVous></historique></patient><patient cin="5689652"><nom>islem</nom><prenom>najjar</prenom><dateDeNaissance>06/09/95</dateDeNaissance><mobile>5698653</mobile><email>islem@gmail.com</email><genre>female</genre><address>Kairouen</address><metier>etudiante</metier><maladie>maux aux oreils</maladie><historique><rendezVous type="Rendez-vous"><date>03/03/2019 a 15h</date><prix>45</prix></rendezVous></historique></patient></patients>
